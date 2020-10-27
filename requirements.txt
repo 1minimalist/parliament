@@ -1,0 +1,7 @@
+requests
+flask
+elasticsearch
+neo4j
+python-dateutil
+gunicorn
+flask-crontab
